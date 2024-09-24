@@ -8,6 +8,8 @@ This project includes three key components:
 2. **workflow.py**: Defines the workflow that connects the various processing stages into a coherent pipeline.
 3. **app.py**: Provides a Streamlit web interface where users can upload medical reports and see the results after analysis.
 4. **requirements.txt**: Specifies the required libraries and dependencies for the project.
+![image](https://github.com/user-attachments/assets/198bf4e5-95de-4720-8d7e-c6ce4bd13dd9)
+
 
 ## Features
 
